@@ -13,7 +13,7 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 ## 🎓 Experiência Acadêmica e Extensão
 
-- **Diretora de Esportes** na Atlética Brizão e Diretora de integração do centro acadêmico (CCIA) - *Liderança e organização de eventos.*
+- **Diretora de Esportes** na Atlética Brizão e **Diretora de Integração** do centro acadêmico (CCIA) - *Liderança e organização de eventos.*
 - Participante da **Maratona de Programação** - *Foco em algoritmos e resolução de problemas sob pressão.*
 - Desenvolvendo um projeto de Iniciação Ciêntífica em cibersegurança.
 
