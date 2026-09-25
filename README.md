@@ -19,5 +19,5 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 ## 📫 Como me encontrar:
 
-- [LinkedIn][[https://www.linkedin.com/in/elisa-chagas-a15163368/]
+- LinkedIn: https://www.linkedin.com/in/elisa-chagas-a15163368/
 - E-mail: elisa13figueiredo@gmail.com
