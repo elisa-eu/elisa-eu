@@ -24,4 +24,4 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 
 
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=elisa-eu&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=elisa-eu&theme=radical)
