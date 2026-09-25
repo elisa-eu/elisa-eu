@@ -23,5 +23,3 @@ Atualmente, estou aprofundando meus conhecimentos em desenvolvimento de software
 - E-mail: elisa13figueiredo@gmail.com
 
 
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=elisa-eu&theme=radical)
